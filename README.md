@@ -1,2 +1,1 @@
-# goleadores
-TP Goleadores - Sistema De Gestion Programacion 2 2025 
+"# Proyecto-integrador-Goleadores-del-torneo" 
